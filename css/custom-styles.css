@@ -7,9 +7,9 @@
 }
 .type-effect {
   font-size: 2rem; /* Adjust font size */
-  white-space: nowrap;
-  overflow: hidden;
-  display: inline-block;
+  white-space: normal;
+  overflow: visible;
+  display: inline;
   border-right: 2px solid black; /* Cursor effect */
   padding-right: 0.2em;
   font-family: "Courier New", Courier, monospace; /* Optional: gives a typewriter feel */
